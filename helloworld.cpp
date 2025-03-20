@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "Hello World cpp local"<<std::endl;
+    std::cout << "Hello World cpp github"<<std::endl;
     return 0;
 }
